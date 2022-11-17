@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 17 16:37:45 EST 2022
+sonar-maven-plugin-3.10-SNAPSHOT-cyclonedx.json>=
+sonar-maven-plugin-3.10-SNAPSHOT.jar>=
+sonar-maven-plugin-3.10-SNAPSHOT.pom>=
